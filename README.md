@@ -14,4 +14,3 @@ Bachelor of Informatics study program. <br>
 <br>
 <button><a href="https://www.del.ac.id/">Institut Teknologi Del</a></button>
 
-![SS](https://github.com/gabrielhtg/pyca/blob/main/ss.png?raw=true)
